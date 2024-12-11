@@ -5,3 +5,5 @@ These are my submissions for the Advent of Code 2024 programming challenges. My 
 Meanwhile, as a consolation prize for my efforts, I'm using this as an opportunity to learn Rust! Don't expect optimized solutions, but this serves as a great chance for me to get my feet wet.
 
 **Obviously, this goes without saying, but there are spoilers ahead!**
+## Completed
+**Day 1 - Parts 1 and 2**
