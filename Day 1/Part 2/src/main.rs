@@ -29,7 +29,6 @@ fn main() {
             .collect();
 
         sim += (sim_element * filtered.len() as i32) as i64;
-        elements += 1
     }
     println!("{}", sim)
 }
