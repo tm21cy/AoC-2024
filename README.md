@@ -7,3 +7,5 @@ Meanwhile, as a consolation prize for my efforts, I'm using this as an opportuni
 **Obviously, this goes without saying, but there are spoilers ahead!**
 ## Completed
 **Day 1 - Parts 1 and 2**
+
+**Day 2 - Part 1**
