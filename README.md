@@ -9,3 +9,5 @@ Meanwhile, as a consolation prize for my efforts, I'm using this as an opportuni
 **Day 1 - Parts 1 and 2**
 
 **Day 2 - Part 1**
+
+**Day 3 - Part 1**
